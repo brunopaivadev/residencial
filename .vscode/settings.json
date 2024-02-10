@@ -1,0 +1,16 @@
+{
+  "editor.fontFamily": "IBM Plex Mono",
+  "editor.fontSize": 16,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 4,
+  "editor.wordWrap": "on",
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "workbench.activityBar.location": "side",
+  "workbench.iconTheme": "bearded-icons",
+  "workbench.sideBar.location": "left",
+  "workbench.statusBar.visible": true,
+  "workbench.tree.enableStickyScroll": true,
+  "editor.codeActionsOnSave": {
+
+  }
+}
